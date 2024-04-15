@@ -93,7 +93,6 @@ inputField:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center; 
-  font-size: 1.5rem;
   gap: 1rem;
   
 }
@@ -110,3 +109,38 @@ inputField:focus {
 }
 
 
+
+@media screen and (max-width: 770px) {
+  .viewTask{
+   width: auto;
+  }
+
+
+  .item{
+    font-size: 1rem;
+    height: 1rem;
+    width: 16rem;
+    margin: 0.5rem;
+   
+  }
+
+  .heading{
+    font-size: 3rem;
+  }
+  .todoHeading{
+    font-size: 2.5rem;
+  }
+
+  .inputField {
+    width: 18rem;
+    height: 20px;
+    padding: 10px;
+    
+  }
+ 
+  .removeButton {
+    padding: 4px;
+   
+  }
+
+}
