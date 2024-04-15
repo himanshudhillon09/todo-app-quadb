@@ -1,6 +1,6 @@
 # TODO-APP-QUADB
 
-Responsive React App having functionality to manage Todos having features to add & delete todos with the help of Redux State Management.
+Responsive React App having functionality to manage Todos having features to add & delete todos with the help of redux state management.
 
 ## Used Tech Stack
 **Client:** React, Redux, MUI icons, React-hot-toasts <br/>
