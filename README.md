@@ -11,7 +11,7 @@ Responsive React App having functionality to manage Todos having features to add
 ## Demo
 ### [Live Site](https://todo-app-quadb-tawny.vercel.app/)
 
-
+![todo-appiquadb](https://github.com/himanshudhillon09/todo-app-quadb/blob/master/screenshots/pc.png)
 
 
 ## Features
